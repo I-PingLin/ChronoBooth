@@ -1,0 +1,5 @@
+{
+  "name": "ChronoBooth",
+  "description": "A time-travel photo booth that uses AI to insert your face into historical scenes, edit images with text prompts, and analyze photos.",
+  "requestFramePermissions": ["camera"]
+}
